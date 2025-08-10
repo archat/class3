@@ -26,3 +26,18 @@ __Grammar:__
 - Verbs, Is, Are, Am
 
 __Reading Comprehension__
+
+## Spelling and Dictation Words
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> |<!-- --> |
+|---|---|---|---|---|
+| laugh | metal | straight | measure | possess | 
+| attempt | mammals | appearance | permanent | envelope | 
+| ninety | ninth | disease | environment | invention | 
+| knowledge | reminder | galaxy | universe | process | 
+| volcano | appear | quiet | believe | bought | 
+| brought | surprised | exciting | beautiful | precious | 
+| worried | pleasure | pleasant | except | grammar | 
+| separate | height | receive | neighbour | tomorrow | 
+| traveller | enough | taught | caught | necessary | 
+| adopted | beginning | business | fulfil | behaviour |  
