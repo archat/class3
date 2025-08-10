@@ -1,0 +1,4 @@
+- The Hardware and Software Safari
+- Navigating Windows 10
+- AI Gadgets and Machines
+- Crafting Text in Word

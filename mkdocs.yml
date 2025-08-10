@@ -28,8 +28,16 @@ nav:
   - Home: index.md
   - Midterm:
     - Syllabus: midterm/syllabus.md
+    - LAR: midterm/lar.md
+    - Kannada: midterm/kannada.md
+    - Hindi: midterm/hindi.md
+    - Computer Science: midterm/cs.md
+    - General Science: midterm/gs.md
+    - Social Science: midterm/ss.md
+    - Mathematics: midterm/math.md
 
 markdown_extensions:
   - attr_list
 plugins:
   - mkdocs-pdf    
+  - search
