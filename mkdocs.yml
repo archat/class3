@@ -35,6 +35,9 @@ nav:
     - General Science: midterm/gs.md
     - Social Science: midterm/ss.md
     - Mathematics: midterm/math.md
+  - UA 02:
+    - Syllabus: ua02/syllabus.md
+
 
 markdown_extensions:
   - attr_list
